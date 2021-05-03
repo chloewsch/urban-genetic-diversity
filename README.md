@@ -1,7 +1,9 @@
 # urban-genetic-diversity
 
 Code for Schmidt et al (2020) Continent-wide effects of urbanization on bird and mammal genetic diversity
+
 Paper: https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2497
+
 Data: https://datadryad.org/stash/dataset/doi:10.5061/dryad.cz8w9gj0c
 
 Data:
@@ -10,8 +12,8 @@ Data:
 
 R code:
 1. data_compilation.R
-- scripts to create final dataset used in analyses. Dataset is available here: https://datadryad.org/stash/dataset/doi:10.5061/dryad.cz8w9gj0c
-- Note raw genetic data are not provided.
+- scripts to create final dataset used in analyses
+- Note raw genetic data are not provided
 - 4 metrics estimated from genetic data: allelic richness, gene diversity, population-specific FST (global_FST), and effective population size (Ne) 
 
 2. dbmem_analysis.R
